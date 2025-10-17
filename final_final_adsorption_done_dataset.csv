@@ -1,0 +1,326 @@
+﻿adsorbent,source_link,method_processing,surface_area_m2g,particle_size_mm,pore_volume_cm3g,pollutant,initial_concentration_mgL,temperature_c,contact_time_min,qe_mg_g,removal_percent,ph,dose_gL
+RH-natural,"10.37885/221211191, Schneider et al., 2022   ","Washed, oven-dried 110°C/24h, milled, sieved 212µm",2.545,0.212,0.003,Acidity,3680,17,360,14.93,25,N/A,61.61
+RH-natural,"10.37885/221211191, Schneider et al., 2022   ","Washed, oven-dried 110°C/24h, milled, sieved 212µm",2.545,0.212,0.003,Acidity,3680,23,360,11.94,20,N/A,61.61
+RH-natural,"10.37885/221211191, Schneider et al., 2022   ","Washed, oven-dried 110°C/24h, milled, sieved 212µm",2.545,0.212,0.003,Acidity,3680,17,360,6.57,11,N/A,61.61
+RH-natural,"10.37885/221211191, Schneider et al., 2022   ","Washed, oven-dried 110°C/24h, milled, sieved 212µm",2.545,0.212,0.003,Acidity,3680,20,360,14.33,24,N/A,78.34
+RH-natural,"10.37885/221211191, Schneider et al., 2022   ","Washed, oven-dried 110°C/24h, milled, sieved 212µm",2.545,0.212,0.003,Acidity,3680,17.5,420,10.72,40,N/A,137.97
+RH-natural,"10.37885/221211191, Schneider et al., 2022   ","Washed, oven-dried 110°C/24h, milled, sieved 212µm",2.545,0.212,0.003,Acidity,3680,20,360,17.68,37,N/A,78.34
+AC-commercial,"10.37885/221211191, Schneider et al., 2022   ","Commercial powder (4µm), oven-dried 110°C/24h",564.41,0.004,0.09,Acidity,3680,17,360,19.7,33,N/A,61.61
+AC-commercial,"10.37885/221211191, Schneider et al., 2022   ","Commercial powder (4µm), oven-dried 110°C/24h",564.41,0.004,0.09,Acidity,3680,23,360,22.1,37,N/A,61.61
+AC-commercial,"10.37885/221211191, Schneider et al., 2022   ","Commercial powder (4µm), oven-dried 110°C/24h",564.41,0.004,0.09,Acidity,3680,25,360,26.29,55,N/A,78.34
+AC-commercial,"10.37885/221211191, Schneider et al., 2022   ","Commercial powder (4µm), oven-dried 110°C/24h",564.41,0.004,0.09,Acidity,3680,25,360,12.59,47,N/A,137.97
+AC-commercial,"10.37885/221211191, Schneider et al., 2022   ","Commercial powder (4µm), oven-dried 110°C/24h",564.41,0.004,0.09,Acidity,3680,20,360,27.24,57,N/A,78.34
+CS-biochar,"https://doi.org/10.1177/0734242X221127167, Ajien et al., 2023   ","KOH-activated, pyrolyzed 700°C",486,N/P,N/P,Sulfonamides,N/P,N/P,N/P,10.72,40,N/P,N/P
+CS-biochar,"https://doi.org/10.1177/0734242X221127167, Ajien et al., 2023   ","CO₂-activated, pyrolyzed 750°C",613,N/P,N/P,"Heavy metals, dyes",N/P,N/P,N/P,10.72,40,N/P,N/P
+CH-biochar,"https://doi.org/10.1177/0734242X221127167, Ajien et al., 2023   ",Pyrolyzed ~600°C,665,N/P,N/P,"Dyes, antibiotics",N/P,N/P,N/P,N/P,96.5,N/P,N/P
+CH-biochar,"https://doi.org/10.1177/0734242X221127167, Ajien et al., 2023   ",Chitosan-modified,N/P,N/P,N/P,Nutrients,N/P,N/P,N/P,N/P,90,N/P,N/P
+CCAC-150,"https://doi.org/10.29333/ejosdr/9285,  Igwegbe et al., 2021   ","NaOH-activated, carbonized at 500°C",N/P,0.15,N/P,Oil & Grease,300,25,N/A,161.9,92.3,7,N/A
+CCAC-300,"https://doi.org/10.29333/ejosdr/9285,  Igwegbe et al., 2021   ","NaOH-activated, carbonized at 500°C",N/P,0.3,N/P,Oil & Grease,300,25,N/A,114.3,88.5,7,N/A
+CCAC-600,"https://doi.org/10.29333/ejosdr/9285,  Igwegbe et al., 2021   ","NaOH-activated, carbonized at 500°C",N/P,0.6,N/P,Oil & Grease,300,25,N/A,73.2,82.7,7,N/A
+CCAC-BH100,"https://doi.org/10.29333/ejosdr/9285,  Igwegbe et al., 2021   ","NaOH-activated, carbonized at 500°C",N/P,0.3,N/P,Oil & Grease,300,25,N/A,369.9,85.4,7,N/A
+CCAC-BH200,"https://doi.org/10.29333/ejosdr/9285,  Igwegbe et al., 2021   ","NaOH-activated, carbonized at 500°C",N/P,0.3,N/P,Oil & Grease,300,25,N/A,239.4,90.2,7,N/A
+CCAC-BH300,"https://doi.org/10.29333/ejosdr/9285,  Igwegbe et al., 2021   ","NaOH-activated, carbonized at 500°C",N/P,0.3,N/P,Oil & Grease,300,25,N/A,240.5,93.1,7,N/A
+CCAC-FC200,"https://doi.org/10.29333/ejosdr/9285,  Igwegbe et al., 2021   ","NaOH-activated, carbonized at 500°C",N/P,0.3,N/P,Oil & Grease,200,25,N/A,140,91.8,7,N/A
+CCAC-FC300,"https://doi.org/10.29333/ejosdr/9285,  Igwegbe et al., 2021   ","NaOH-activated, carbonized at 500°C",N/P,0.3,N/P,Oil & Grease,300,25,N/A,96.3,87,7,N/A
+CCAC-FC400,"https://doi.org/10.29333/ejosdr/9285,  Igwegbe et al., 2021   ","NaOH-activated, carbonized at 500°C",N/P,0.3,N/P,Oil & Grease,400,25,N/A,70.6,79.6,7,N/A
+STL-MB,"Hameed, 2009","Raw, oven-dried",N/P,N/P,N/P,Methylene Blue,N/P,30,N/P,300.05,N/P,N/P,N/P
+STL-MG,"Abul Hossain & Hossain, 2014",Used black tea,N/P,N/P,N/P,Malachite Green,N/P,30,N/P,227.3,N/P,6,N/P
+STL-BV10,"Mohamed & Rahman, 2013",Black tea waste,N/P,N/P,N/P,Basic Violet 10,N/P,30,N/P,71.4,N/P,6,N/P
+STL-Pb,"Yang & Cui, 2013",NaOH-treated,N/P,N/P,N/P,Pb²⁺,N/P,N/P,N/P,64.1,N/P,N/P,N/P
+STL-Cr,"Hadi, 2012",Raw,N/P,N/P,N/P,Cr(VI),N/P,N/P,180,42.46,N/P,N/P,N/P
+STL-Zn,"Rafie, 2012",Black tea,N/P,N/P,N/P,Zn²⁺,N/P,N/P,180,12.24,N/P,6,N/P
+RH-MB,"Sulyman et al., 2017 review   ",Untreated,N/P,N/P,N/P,Methylene Blue,N/P,N/P,N/P,40.6,N/P,N/P,N/P
+RH-IC,"Sulyman et al., 2017 review   ",Untreated,N/P,N/P,N/P,Indigo Carmine,N/P,N/P,N/P,65.9,N/P,N/P,N/P
+OP-Pb,"Sulyman et al., 2017 review   ",Untreated,N/P,N/P,N/P,Pb²⁺,N/P,N/P,N/P,204.5,N/P,N/P,N/P
+OliveS-Phenol,"Sulyman et al., 2017 review   ",Untreated,N/P,N/P,N/P,Phenol,N/P,N/P,N/P,333.3,N/P,N/P,N/P
+MR-Cd,"Sulyman et al., 2017 review   ",Chemically modified,N/P,N/P,N/P,Cd²⁺,N/P,N/P,N/P,14.17,N/P,N/P,N/P
+CCAC-MVP-opt,"He et al., 2023   ","H₃PO₄ impregnation, MVP",995.09,N/P,0.708,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Total Suspended Solids,~25,~23,10,1.56,16.67,~7.5,2.67
+BAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Total Suspended Solids,~25,~23,10,2.15,45.84,~7.5,5.33
+BAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Total Suspended Solids,~25,~23,10,1.82,58.34,~7.5,8
+BAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Total Suspended Solids,~25,~23,10,1.66,70.85,~7.5,10.67
+BAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Total Suspended Solids,~25,~23,10,1.56,83.35,~7.5,13.33
+BAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Ammoniacal Nitrogen,~0.4,~23,10,0.041,27.58,~7.5,2.67
+BAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Ammoniacal Nitrogen,~0.4,~23,10,0.032,42.6,~7.5,5.33
+BAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Ammoniacal Nitrogen,~0.4,~23,10,0.028,56.5,~7.5,8
+BAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Ammoniacal Nitrogen,~0.4,~23,10,0.026,70.02,~7.5,10.67
+BAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Ammoniacal Nitrogen,~0.4,~23,10,0.025,82.61,~7.5,13.33
+CSAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Total Suspended Solids,~25,~23,10,2.34,25.01,~7.5,2.67
+CSAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Total Suspended Solids,~25,~23,10,1.76,37.51,~7.5,5.33
+CSAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Total Suspended Solids,~25,~23,10,1.69,54.18,~7.5,8
+CSAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Total Suspended Solids,~25,~23,10,1.47,62.51,~7.5,10.67
+CSAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Total Suspended Solids,~25,~23,10,1.48,79.18,~7.5,13.33
+CSAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Ammoniacal Nitrogen,~0.4,~23,10,0.039,26.13,~7.5,2.67
+CSAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Ammoniacal Nitrogen,~0.4,~23,10,0.031,40.65,~7.5,5.33
+CSAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Ammoniacal Nitrogen,~0.4,~23,10,0.028,55.17,~7.5,8
+CSAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Ammoniacal Nitrogen,~0.4,~23,10,0.026,69.69,~7.5,10.67
+CSAC,"Kuok et al., 2024   ",Physical & chemical (KOH) activation,1000,N/P,N/P,Ammoniacal Nitrogen,~0.4,~23,10,0.025,83.73,~7.5,13.33
+CS-AC,"Abubakar et al., 2025   ","NaOH activation, carbonization at 700°C",N/P,0.063-0.125,N/P,Methylene Blue,100,30,10,78.7,31.48,6,0.4
+CS-AC,"Abubakar et al., 2025   ","NaOH activation, carbonization at 700°C",N/P,0.063-0.125,N/P,Methylene Blue,100,30,20,145.98,58.39,6,0.4
+CS-AC,"Abubakar et al., 2025   ","NaOH activation, carbonization at 700°C",N/P,0.063-0.125,N/P,Methylene Blue,100,30,30,154.25,61.7,6,0.4
+CS-AC,"Abubakar et al., 2025   ","NaOH activation, carbonization at 700°C",N/P,0.063-0.125,N/P,Methylene Blue,100,30,40,154.95,61.98,6,0.4
+CS-AC,"Abubakar et al., 2025   ","NaOH activation, carbonization at 700°C",N/P,0.063-0.125,N/P,Methylene Blue,100,30,50,155.45,62.18,6,0.4
+CS-AC,"Abubakar et al., 2025   ","NaOH activation, carbonization at 700°C",N/P,0.063-0.125,N/P,Methylene Blue,100,30,60,158.2,63.28,6,0.4
+Hungarian RH,"Sukmana et al., 2025   ","Raw, washed, dried, ground",N/P,0.25,N/P,Methylene Blue,60,25,60,23,92,12,2.4
+Indonesian RH,"Sukmana et al., 2025   ","Raw, washed, dried, ground",N/P,0.25,N/P,Methylene Blue,60,25,60,22,88,12,2.4
+Hungarian RH-Hydrochar,"Sukmana et al., 2025   ",Hydrothermal carbonization at 250°C,N/P,0.25,N/P,Methylene Blue,60,25,60,23.5,94,12,2.4
+Indonesian RH-Hydrochar,"Sukmana et al., 2025   ",Hydrothermal carbonization at 250°C,N/P,0.25,N/P,Methylene Blue,60,25,60,23,92,12,2.4
+cRH,"Gargiulo et al., 2024   ",Carbonized,162,N/P,0.102,Cu²⁺,Varied,20,N/P,15.89,N/P,N/P,2
+cRH,"Gargiulo et al., 2024   ",Carbonized,162,N/P,0.102,Pb²⁺,Varied,20,N/P,26.94,N/P,N/P,2
+cRHNaOH,"Gargiulo et al., 2024   ","Carbonized, NaOH-treated",335,N/P,0.37,Cu²⁺,Varied,20,N/P,13.34,N/P,N/P,2
+cRHNaOH,"Gargiulo et al., 2024   ","Carbonized, NaOH-treated",335,N/P,0.37,Pb²⁺,Varied,20,N/P,24.86,N/P,N/P,2
+cRHNaOH-FM,"Gargiulo et al., 2024   ","Carbonized, NaOH-treated, Fe-oxide composite",371,N/P,0.36,Cu²⁺,Varied,20,N/P,17.16,N/P,N/P,2
+cRHNaOH-FM,"Gargiulo et al., 2024   ","Carbonized, NaOH-treated, Fe-oxide composite",371,N/P,0.36,Pb²⁺,Varied,20,N/P,31.08,N/P,N/P,2
+Ambarella peels,"Chong & Hadibarata, 2021   ","Dried, ground, sieved",N/P,0.6,N/P,Phenol Red,50,27,N/P,0.5,99.82,N/P,100
+Coconut shells,"Chong & Hadibarata, 2021   ","Dried, ground, sieved",N/P,0.6,N/P,Remazol Brilliant Blue R,50,27,1260,3.79,75.78,N/P,10
+CS,"Moosavi et al., 2023   ",Pyrolysis at 500°C,878,0.3,0.492,Reactive Dye (RD),4,25,N/P,818,N/P,7,N/P
+CS,"Moosavi et al., 2023   ",Pyrolysis at 500°C,878,0.3,0.492,Reactive Dye (RD),190,25,N/P,1051,N/P,7,N/P
+CS,"Moosavi et al., 2023   ",Pyrolysis at 500°C,878,0.3,0.492,Reactive Dye (RD),380,25,N/P,1106,N/P,7,N/P
+CS,"Moosavi et al., 2023   ",Pyrolysis at 500°C,878,0.3,0.492,Reactive Dye (RD),40,25,N/P,970,N/P,7,N/P
+CS,"Moosavi et al., 2023   ",Pyrolysis at 500°C,878,0.3,0.492,Yellow Dye (YD),1.911,25,N/P,563.06,N/P,7,N/P
+CS,"Moosavi et al., 2023   ",Pyrolysis at 500°C,878,0.3,0.492,Yellow Dye (YD),13.38,25,N/P,740.693,N/P,7,N/P
+CS,"Moosavi et al., 2023   ",Pyrolysis at 500°C,878,0.3,0.492,Yellow Dye (YD),59.24,25,N/P,908.472,N/P,7,N/P
+CS,"Moosavi et al., 2023   ",Pyrolysis at 500°C,878,0.3,0.492,Yellow Dye (YD),118.5,25,N/P,1056.07,N/P,7,N/P
+CS,"Moosavi et al., 2023   ",Pyrolysis at 500°C,878,0.3,0.492,Yellow Dye (YD),215.9,25,N/P,1117.77,N/P,7,N/P
+CS,"Moosavi et al., 2023   ",Pyrolysis at 500°C,878,0.3,0.492,Yellow Dye (YD),307.6,25,N/P,1169.27,N/P,7,N/P
+CS,"Moosavi et al., 2023   ",Pyrolysis at 500°C,878,0.3,0.492,Yellow Dye (YD),401.3,25,N/P,1190.35,N/P,7,N/P
+CS,"Moosavi et al., 2023   ",Pyrolysis at 500°C,878,0.3,0.492,Yellow Dye (YD),498.7,25,N/P,1216.54,N/P,7,N/P
+CS,"Moosavi et al., 2023   ",Pyrolysis at 500°C,878,0.3,0.492,Yellow Dye (YD),569.4,25,N/P,1237.42,N/P,7,N/P
+AC600,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1865,0.71,0.9191,Methylene Blue (MB),100,25,60,397,N/P,7,N/P
+AC600,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1865,0.71,0.9191,Methylene Blue (MB),200,25,60,795,N/P,7,N/P
+AC600,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1865,0.71,0.9191,Methylene Blue (MB),300,25,60,1192,N/P,7,N/P
+AC600,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1865,0.71,0.9191,Methylene Blue (MB),400,25,60,1971,N/P,7,N/P
+AC600,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1865,0.71,0.9191,Methylene Blue (MB),400,25,60,1564,N/P,7,N/P
+AC600,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1865,0.71,0.9191,Methylene Blue (MB),500,25,60,1928,N/P,7,N/P
+AC600,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1865,0.71,0.9191,Methylene Blue (MB),600,25,60,1953,N/P,7,N/P
+AC600,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1865,0.71,0.9191,Methylene Blue (MB),700,25,60,1906,N/P,7,N/P
+AC600,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1865,0.71,0.9191,Methylene Blue (MB),800,25,60,1877,N/P,7,N/P
+AC600,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1865,0.71,0.9191,Methylene Blue (MB),900,25,60,1972,N/P,7,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,C-Red,400,25,60,2235,N/P,7,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,CCR,400,25,60,2091,N/P,7,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,CCB,400,25,60,1594,N/P,7,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,CCY,400,25,60,1128,N/P,7,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,CBlue,400,25,60,2235,N/P,7,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,C-Yellow,400,25,60,2091,N/P,7,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,Methylene Blue (MB),300,25,60,1192,N/P,7,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,Methylene Blue (MB),200,25,60,795,N/P,7,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,Methylene Blue (MB),400,25,60,2235,N/P,7,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,Methylene Blue (MB),400,25,60,1610,N/P,7,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,Methylene Blue (MB),500,25,60,1470,N/P,2,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,Methylene Blue (MB),500,25,60,1691,N/P,4,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,Methylene Blue (MB),500,25,60,1813,N/P,6,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,Methylene Blue (MB),500,25,60,1989,N/P,8,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,Methylene Blue (MB),500,25,60,1989,N/P,10,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,Methylene Blue (MB),500,25,60,1993,N/P,7,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,Methylene Blue (MB),600,25,60,2172,N/P,7,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,Methylene Blue (MB),700,25,60,2184,N/P,7,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,Methylene Blue (MB),800,25,60,2185,N/P,7,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,Methylene Blue (MB),900,25,60,2239,N/P,7,N/P
+AC700,"Moosavi et al., 2023   ",Pyrolysis at 450°C,2015,0.78,1.0757,Methylene Blue (MB),100,25,60,397,N/P,7,N/P
+AC800,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1999,0.75,1.1551,Methylene Blue (MB),100,25,60,397,N/P,7,N/P
+AC800,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1999,0.75,1.1551,Methylene Blue (MB),200,25,60,795,N/P,7,N/P
+AC800,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1999,0.75,1.1551,Methylene Blue (MB),300,25,60,1192,N/P,7,N/P
+AC800,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1999,0.75,1.1551,Methylene Blue (MB),400,25,60,1548,N/P,7,N/P
+AC800,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1999,0.75,1.1551,Methylene Blue (MB),500,25,60,1750,N/P,7,N/P
+AC800,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1999,0.75,1.1551,Methylene Blue (MB),600,25,60,1899,N/P,7,N/P
+AC800,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1999,0.75,1.1551,Methylene Blue (MB),700,25,60,1995,N/P,7,N/P
+AC800,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1999,0.75,1.1551,Methylene Blue (MB),800,25,60,2031,N/P,7,N/P
+AC800,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1999,0.75,1.1551,Methylene Blue (MB),900,25,60,1014,N/P,7,N/P
+AC900,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1814,0.74,1.1587,Methylene Blue (MB),100,25,60,397,N/P,7,N/P
+AC900,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1814,0.74,1.1587,Methylene Blue (MB),200,25,60,795,N/P,7,N/P
+AC900,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1814,0.74,1.1587,Methylene Blue (MB),300,25,60,1192,N/P,7,N/P
+AC900,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1814,0.74,1.1587,Methylene Blue (MB),400,25,60,1548,N/P,7,N/P
+AC900,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1814,0.74,1.1587,Methylene Blue (MB),500,25,60,1697,N/P,7,N/P
+AC900,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1814,0.74,1.1587,Methylene Blue (MB),600,25,60,1793,N/P,7,N/P
+AC900,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1814,0.74,1.1587,Methylene Blue (MB),700,25,60,1752,N/P,7,N/P
+AC900,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1814,0.74,1.1587,Methylene Blue (MB),800,25,60,1806,N/P,7,N/P
+AC900,"Moosavi et al., 2023   ",Pyrolysis at 450°C,1814,0.74,1.1587,Methylene Blue (MB),900,25,60,1729,N/P,7,N/P
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,7.5,0.39,Methyl Violet (MV),50,45,60,514.286,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,7.5,0.39,Methyl Violet (MV),100,45,60,678.571,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,7.5,0.39,Methyl Violet (MV),200,45,60,828.571,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,7.5,0.39,Methyl Violet (MV),300,45,60,892.857,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,7.5,0.39,Methyl Violet (MV),400,45,60,1007.14,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,7.5,0.39,Methyl Violet (MV),500,45,60,1071.43,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,7.5,0.39,Methyl Violet (MV),600,45,60,1142.86,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,7.5,0.39,Methyl Violet (MV),700,45,60,1192.86,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,7.5,0.39,Methyl Violet (MV),50,35,60,492.857,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,7.5,0.39,Methyl Violet (MV),100,35,60,707.143,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,7.5,0.39,Methyl Violet (MV),200,35,60,850,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,7.5,0.39,Methyl Violet (MV),300,35,60,992.857,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,7.5,0.39,Methyl Violet (MV),400,35,60,1107.14,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,7.5,0.39,Methyl Violet (MV),500,35,60,1171.43,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,7.5,0.39,Methyl Violet (MV),600,35,60,1178.57,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,7.5,0.39,Methyl Violet (MV),700,35,60,1200,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Methyl Violet (MV),50,25,60,535.714,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Methyl Violet (MV),100,25,60,721.429,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Methyl Violet (MV),200,25,60,850,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Methyl Violet (MV),300,25,60,1057.14,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Methyl Violet (MV),400,25,60,1121.43,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Methyl Violet (MV),500,25,60,1142.86,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Methyl Violet (MV),600,25,60,1171.43,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Methyl Violet (MV),700,25,60,1171.43,N/P,6,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),13.27,45,60,875.41,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),89.57,45,60,1091.8,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),172.5,45,60,1259.02,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),272,45,60,1308.2,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),364.9,45,60,1347.54,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),464.5,45,60,1386.89,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),557.3,45,60,1445.9,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),656.9,45,60,1495.08,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),13.27,35,60,885.246,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),86.26,35,60,1131.15,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),165.9,35,60,1327.87,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),258.8,35,60,1416.39,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),345,35,60,1554.1,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),441.2,35,60,1573.77,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),540.8,35,60,1622.95,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),637,35,60,1622.95,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),20,25,60,777.049,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),99.53,25,60,993.443,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),175.8,25,60,1268.85,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),255.5,25,60,1445.9,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),348.3,25,60,1504.92,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),441.2,25,60,1593.44,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),540.8,25,60,1603.28,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Congo Red (CR),637,25,60,1642.62,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Alizarin Red (AR),100,45,60,292.453,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Alizarin Red (AR),200,45,60,371.096,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Alizarin Red (AR),300,45,60,395.567,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Alizarin Red (AR),400,45,60,426.062,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Alizarin Red (AR),500,45,60,450.518,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Alizarin Red (AR),600,45,60,456.917,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Alizarin Red (AR),700,45,60,472.352,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Alizarin Red (AR),800,45,60,499.82,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Alizarin Red (AR),100,35,60,322.544,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Alizarin Red (AR),200,35,60,359.048,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Alizarin Red (AR),300,35,60,386.516,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Alizarin Red (AR),400,35,60,401.966,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Alizarin Red (AR),500,35,60,420.398,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Alizarin Red (AR),600,35,60,426.797,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Alizarin Red (AR),700,35,60,433.195,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Alizarin Red (AR),800,35,60,442.606,N/P,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Alizarin Red (AR),100,25,60,66.6097,53.29,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Alizarin Red (AR),200,25,60,103.129,41.25,7,8
+CMCAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,2430,0.15,0.39,Alizarin Red (AR),300,25,60,130.612,34.83,7,8
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,94,20,N/P,971.739,N/P,7,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,50,25,N/P,5,N/P,6.5,N/P
+MC350,"Moosavi et al., 2023   ",Pyrolysis at 350°C,49,0.48,0.033,Methylene Blue (MB),10,25,N/P,1.9661,N/P,7,N/P
+GSAC,"Moosavi et al., 2023   ",Pyrolysis at 900°C,1102,0.2,0.19,Methylene Blue (MB),400,25,N/P,270.27,N/P,11.67,N/P
+CAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,1223,1.2,0.72,NR,400,25,N/P,415.023,N/P,6.8,N/P
+CBAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,893,1.2,0.52,NR,400,25,N/P,105.164,N/P,6.8,N/P
+HAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,760,1.2,0.47,NR,400,25,N/P,110.798,N/P,6.8,N/P
+VAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,598,5,0.37,AM,50,25,N/P,12.3,N/P,6.8,N/P
+SAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,98.8,1.18,0.09,Methylene Blue (MB),100,25,N/P,19.6,N/P,4.6,N/P
+TRAC,"Moosavi et al., 2023   ",Pyrolysis at 550°C,121,1,0.1514,Methylene Blue (MB),200,25,N/P,404.7,N/P,10,N/P
+BGBHAC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,1710,1.94,0.834,MO,50,21,N/P,99.88,N/P,7,N/P
+WSAC,"Moosavi et al., 2023   ",Pyrolysis at 700°C,1145,4.4,0.53,Rhd B,50,25,N/P,13,N/P,7.3,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,147,20,600,1428.26,N/P,7,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,300,20,600,1447.83,N/P,7,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,500,20,600,1532.61,N/P,7,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,900,20,600,1623.91,N/P,7,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,1000,20,600,1480.43,N/P,7,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,110,20,600,1506.52,N/P,7,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,240,20,600,1584.78,N/P,7,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,400,20,600,1773.91,N/P,7,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,800,20,600,1819.57,N/P,7,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,1000,20,600,1636.96,N/P,7,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,97,20,600,71.7391,N/P,7,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,107,20,600,97.8261,N/P,7,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,120,20,600,104.348,N/P,7,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,137,20,600,91.3043,N/P,7,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,167,20,600,110.87,N/P,7,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,96.94,20,600,123.913,N/P,7,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,103.6,20,600,936.759,N/P,7,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,113.6,20,600,992.095,N/P,7,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,123.7,20,600,173.913,N/P,7,N/P
+CS-AC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,2197,2.17,1.192,GR,150.4,20,600,221.344,N/P,7,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,MB,50,25,N/P,3.5,N/P,6.2,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,50,25,N/P,11.98,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,MB,50,25,N/P,13.27,N/P,6.2,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,MB,10,25,N/P,0.65625,N/P,6.2,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,MB,50,25,N/P,3.625,N/P,6.2,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,MB,100,25,N/P,4.46875,N/P,6.2,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,MB,150,25,N/P,4.9375,N/P,6.2,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,MB,200,25,N/P,5.3125,N/P,6.2,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,10,25,N/P,1.03125,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,50,25,N/P,5.53125,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,100,25,N/P,6.125,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,150,25,N/P,6.4375,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,10,30,N/P,0.671642,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,50,30,N/P,3.58209,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,100,30,N/P,5.52239,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,150,30,N/P,6.1194,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,200,30,N/P,6.41791,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,10,50,N/P,0.970149,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,50,50,N/P,4.92537,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,100,50,N/P,9.70149,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,150,50,N/P,9.55224,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,200,50,N/P,9.62687,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,10,60,N/P,0.895522,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,50,60,N/P,5.07463,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,100,60,N/P,10.0746,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,150,60,N/P,15.3731,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,RB5,200,60,N/P,17.2388,N/P,6.5,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,MB,10,50,N/P,0.820896,N/P,6.2,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,MB,50,50,N/P,3.65672,N/P,6.2,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,MB,100,50,N/P,6.86567,N/P,6.2,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,MB,150,50,N/P,8.20896,N/P,6.2,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,MB,200,50,N/P,8.80597,N/P,6.2,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,MB,10,60,N/P,1.04478,N/P,6.2,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,MB,50,60,N/P,4.1791,N/P,6.2,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,MB,100,60,N/P,7.16418,N/P,6.2,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,MB,150,60,N/P,8.95522,N/P,6.2,N/P
+TSAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,222,0.5,0.1832,MB,200,60,N/P,9.25373,N/P,6.2,N/P
+MC400,"Moosavi et al., 2023   ",Pyrolysis at 400°C,72,0.57,0.053,Methylene Blue (MB),10,25,60,2.37288,4.75,7,0.2
+MC400,"Moosavi et al., 2023   ",Pyrolysis at 400°C,72,0.57,0.053,Methylene Blue (MB),20,25,60,5.22034,5.22,7,0.2
+MC400,"Moosavi et al., 2023   ",Pyrolysis at 400°C,72,0.57,0.053,Methylene Blue (MB),30,25,60,8.94915,5.97,7,0.2
+MC400,"Moosavi et al., 2023   ",Pyrolysis at 400°C,72,0.57,0.053,Methylene Blue (MB),40,25,60,12.8136,6.41,7,0.2
+MC450,"Moosavi et al., 2023   ",Pyrolysis at 450°C,81,0.66,0.087,Methylene Blue (MB),10,25,60,2,4,7,0.2
+MC450,"Moosavi et al., 2023   ",Pyrolysis at 450°C,81,0.66,0.087,Methylene Blue (MB),20,25,60,5,5,7,0.2
+MC450,"Moosavi et al., 2023   ",Pyrolysis at 450°C,81,0.66,0.087,Methylene Blue (MB),30,25,60,8,5.33,7,0.2
+MC450,"Moosavi et al., 2023   ",Pyrolysis at 450°C,81,0.66,0.087,Methylene Blue (MB),40,25,60,12.1,6.05,7,0.2
+MC500,"Moosavi et al., 2023   ",Pyrolysis at 500°C,116,0.66,0.134,Methylene Blue (MB),10,25,60,2.44068,4.88,7,0.2
+MC500,"Moosavi et al., 2023   ",Pyrolysis at 500°C,116,0.66,0.134,Methylene Blue (MB),20,25,60,5.89831,5.9,7,0.2
+MC500,"Moosavi et al., 2023   ",Pyrolysis at 500°C,116,0.66,0.134,Methylene Blue (MB),30,25,60,9.76271,6.51,7,0.2
+MC500,"Moosavi et al., 2023   ",Pyrolysis at 500°C,116,0.66,0.134,Methylene Blue (MB),40,25,60,13.8305,6.92,7,0.2
+MC550,"Moosavi et al., 2023   ",Pyrolysis at 550°C,116,0.48,0.183,Methylene Blue (MB),10,25,60,2.98305,5.97,7,0.2
+MC550,"Moosavi et al., 2023   ",Pyrolysis at 550°C,116,0.48,0.183,Methylene Blue (MB),20,25,60,6.37288,6.37,7,0.2
+MC550,"Moosavi et al., 2023   ",Pyrolysis at 550°C,116,0.48,0.183,Methylene Blue (MB),30,25,60,10.1017,6.73,7,0.2
+MC550,"Moosavi et al., 2023   ",Pyrolysis at 550°C,116,0.48,0.183,Methylene Blue (MB),40,25,60,14.9153,7.46,7,0.2
+MC600,"Moosavi et al., 2023   ",Pyrolysis at 600°C,49,0.75,0.033,Methylene Blue (MB),10,25,60,2.37288,4.75,7,0.2
+MC600,"Moosavi et al., 2023   ",Pyrolysis at 600°C,49,0.75,0.033,Methylene Blue (MB),20,25,60,5.69492,5.69,7,0.2
+MC600,"Moosavi et al., 2023   ",Pyrolysis at 600°C,49,0.75,0.033,Methylene Blue (MB),30,25,60,8.94915,5.97,7,0.2
+MC600,"Moosavi et al., 2023   ",Pyrolysis at 600°C,49,0.75,0.033,Methylene Blue (MB),40,25,60,12.9492,6.47,7,0.2
+GSAC-Ce-1,"Moosavi et al., 2023   ",Pyrolysis at 900°C,1258,0.2,0.35,Methylene Blue (MB),400,25,N/P,199.76,N/P,7,N/P
+CAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,1223,1.2,0.72,NR,100,25,N/P,97.7376,N/P,6.8,N/P
+CBAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,893,1.2,0.52,NR,100,25,N/P,73.7557,N/P,6.8,N/P
+HAC,"Moosavi et al., 2023   ",Pyrolysis at 800°C,760,1.2,0.47,NR,100,25,N/P,58.8235,N/P,6.8,N/P
+VAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,598,5,0.37,AM,100,25,N/P,25.3,N/P,4.6,N/P
+VAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,598,5,0.37,Methylene Blue (MB),50,25,N/P,12.6,N/P,4.6,N/P
+VAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,598,5,0.37,Methylene Blue (MB),100,25,N/P,25.1,N/P,4.6,N/P
+VAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,598,5,0.37,AM,170,25,N/P,25,N/P,4.6,N/P
+VAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,598,5,0.37,Methylene Blue (MB),170,25,N/P,25,N/P,4.6,N/P
+SAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,98.8,1.18,0.09,Methylene Blue (MB),10,25,N/P,2.44,N/P,4.6,N/P
+SAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,98.8,1.18,0.09,Methylene Blue (MB),50,25,N/P,12.3,N/P,4.6,N/P
+SAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,98.8,1.18,0.09,AM,10,25,N/P,2.24,N/P,4.6,N/P
+SAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,98.8,1.18,0.09,AM,50,25,N/P,12.2,N/P,4.6,N/P
+SAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,98.8,1.18,0.09,AM,100,25,N/P,23.6,N/P,4.6,N/P
+SAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,98.8,1.18,0.09,AM,170,25,N/P,12.3188,N/P,4.6,N/P
+SAC,"Moosavi et al., 2023   ",Pyrolysis at 650°C,98.8,1.18,0.09,Methylene Blue (MB),170,25,N/P,19.5652,N/P,4.6,N/P
+TRAC,"Moosavi et al., 2023   ",Pyrolysis at 550°C,121,1,0.1514,AB25,100,25,N/P,399.58,N/P,10,N/P
+TRAC,"Moosavi et al., 2023   ",Pyrolysis at 550°C,121,1,0.1514,Methylene Blue (MB),100,25,N/P,151.405,N/P,10,N/P
+TRAC,"Moosavi et al., 2023   ",Pyrolysis at 550°C,121,1,0.1514,AB25,100,25,N/P,153.189,N/P,10,N/P
+BGBHAC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,1710,1.94,0.834,MO,100,21,N/P,199.5,N/P,7,N/P
+BGBHAC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,1710,1.94,0.834,MO,150,21,N/P,298.2,N/P,7,N/P
+BGBHAC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,1710,1.94,0.834,MO,200,21,N/P,392.8,N/P,7,N/P
+BGBHAC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,1710,1.94,0.834,Methylene Blue (MB),50,21,N/P,98.9772,N/P,7,N/P
+BGBHAC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,1710,1.94,0.834,Methylene Blue (MB),100,21,N/P,198.6,N/P,7,N/P
+BGBHAC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,1710,1.94,0.834,Methylene Blue (MB),150,21,N/P,295.9,N/P,7,N/P
+BGBHAC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,1710,1.94,0.834,Methylene Blue (MB),200,21,N/P,390.3,N/P,7,N/P
+BGBHAC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,1710,1.94,0.834,Methylene Blue (MB),100,21,N/P,469,N/P,7,N/P
+BGBHAC,"Moosavi et al., 2023   ",Pyrolysis at 400°C,1710,1.94,0.834,MO,100,21,N/P,418,N/P,7,N/P
+WSAC,"Moosavi et al., 2023   ",Pyrolysis at 700°C,1145,4.4,0.53,Rhd B,25,25,N/P,123.46,N/P,7.3,N/P
+WSAC,"Moosavi et al., 2023   ",Pyrolysis at 700°C,1145,4.4,0.53,Rhd B,50,25,N/P,29.3671,N/P,7.3,N/P
+WSAC,"Moosavi et al., 2023   ",Pyrolysis at 700°C,1145,4.4,0.53,Rhd B,75,25,N/P,60.2532,N/P,7.3,N/P
+WSAC,"Moosavi et al., 2023   ",Pyrolysis at 700°C,1145,4.4,0.53,Rhd B,100,25,N/P,83.038,N/P,7.3,N/P
+WSAC,"Moosavi et al., 2023   ",Pyrolysis at 700°C,1145,4.4,0.53,Rhd B,100,25,N/P,104.81,N/P,7.3,N/P
