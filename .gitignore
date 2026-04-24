@@ -1,0 +1,19 @@
+# Project specific
+archive/
+run_experiments.py
+extracted_issues.txt
+experiment_results.txt
+piml_comparison.md
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
